@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6, p {
+    color: orange;
+}
+
+.texto-com-backgroung{
+    background-color: yellow;
+}
+
+#texto-com-outra-cor{
+    color: green;
+}
+
+/*section >p{
+
+} 
+
+section p: :nth-child(posicao que queria colorir separada){
+   color: hotpink 
+}
+*/
